@@ -32,3 +32,7 @@ int main() {
   printArray(data, size);
 }
 ```
+- [ ] open this github
+- [ ] complete this github instruction
+- [ ] go to the next step of the skills 
+
